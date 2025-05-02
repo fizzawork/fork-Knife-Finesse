@@ -1,7 +1,7 @@
 Project Title: Restaurant Management System
 Team Size: 2
 Course Title: Database Systems
-Languages: JS, CSS, PHP 
+Languages: HTML, JS, CSS, PHP 
 Database: My Sql (via XAMPP Control Panel)
 
 Description:
